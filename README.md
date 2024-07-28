@@ -1,3 +1,3 @@
 # Multi-fidelity Bayesian Optimization
 
-A repository that contains four Jupyter notebooks exploring various applications of multi-fidelity Bayesian optimization.
+A repository that contains four Jupyter notebooks exploring various applications of multi-fidelity Bayesian optimization. Use the following code to load up the python environment: `conda env create --name stk_search_import --file=environment.yml` Note that certain cells will save results locally and other cells will load those results. These results have not been uploaded for the sake of space, but the code to create equivalent results is included in the notebook, except for the `stk_search` notebook which requires explcitly running `stk_search` to produce the results. 
